@@ -1,7 +1,8 @@
 # datastruct-go
 learning golang with data struct
 
---- 写在最前面
+---
+写在最前面
 
 ### 这个仓库是干什么的
 数据结构和算法是我大学期间唯一比较自信的一门课程，当初用分别用C & C plus分别给予了代码实践。
